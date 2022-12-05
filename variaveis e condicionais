@@ -1,0 +1,27 @@
+void main()
+  {
+    String variaveldetexto = "ola! este e meu texto";
+    print(variaveldetexto);
+  
+  //variavel do tipo int
+  
+  int x  = 35;
+  int y = 3.5;
+  
+  int 
+  
+ //variavel do tipo doublre
+ 
+  double variaveldenumerodecimal = 3.5;
+  print (variaveldenumerodecimal);
+  
+  //variavel do tipo bool
+  
+  bool variavelverdadeira = true;
+  print(variavelverdadeira);
+  
+  bool variavelfalsa = false
+    print(variavelfalsa);
+  }
+
+  
