@@ -1,0 +1,17 @@
+void main() {
+ //soma
+   
+   print(somar(2,1));
+   print(multiplicacao(3,5));
+  }
+
+int somar(int x, int y)
+{
+  return x+y;
+}
+//multiplicacao
+  
+  int multiplicacao(int x, int y)
+{
+  return x*y;
+}
